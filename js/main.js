@@ -38,7 +38,7 @@ document.querySelector("#cards").innerHTML =
   createCard("2/12", "sexta", createGame("brasil", "16:00", "cameroon"))
 
 /*<li>
-              <img src="./assets/icon-brasil.svg" alt="Bandeira do Brasil" />
-              <strong>16:00</strong>
-              <img src="./assets/icon-serbia.svg" alt="Bandeira da Sérvia" />
-            </li>*/
+  <img src="./assets/icon-brasil.svg" alt="Bandeira do Brasil" />
+  <strong>16:00</strong>
+  <img src="./assets/icon-serbia.svg" alt="Bandeira da Sérvia" />
+</li>*/

@@ -58,10 +58,11 @@ header {
   display: flex;
   flex-direction: column;
   gap: 32px;
+  margin-bottom: 32px;
 }
 
 .card {
-  padding: 32px 23px;
+  padding: 32px 23px;  
   text-align: center;
   background: var(--card-bg-color);
   border-bottom: 2px solid var(--card-color-primary);
